@@ -33,14 +33,14 @@
     justify-self: end;
   }
 
-  .icons .fa {
+  .icons .fa  {
     font-size: 22px;
     color: rgb(216, 115, 56);
     padding: 10px;
     border-left: rgb(216, 115, 56) solid 1px;
   }
 
-  .first-sec {
+  .first-sec  {
     display: grid;
     grid-template-rows: repeat(3, 1fr);
     height: 500px;
