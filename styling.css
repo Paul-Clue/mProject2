@@ -145,6 +145,11 @@ h2 {
   color: #aaa;
 }
 
+.latest-cont p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .fund-links {
   display: flex;
   flex-flow: column;
@@ -166,6 +171,7 @@ h2 {
 .fund-main {
   display: grid;
   grid-template-rows: 1fr 1fr 1.2fr 1.5fr;
+  position: relative;
 }
 
 .fund-p {
